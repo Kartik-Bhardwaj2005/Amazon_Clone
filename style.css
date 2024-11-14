@@ -230,7 +230,7 @@ ul a {
     justify-content: center;
 }
 .panel-logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("./Images/amazon_logo.png");
     background-size: cover;
     width: 100px;
     height: 50px;
